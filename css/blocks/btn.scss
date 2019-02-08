@@ -1,0 +1,17 @@
+.btn {
+  @include ubuntu($style: medium);
+
+  padding: 8px 15px;
+  background: $red;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+
+
+  &_background_black {
+    background: #000;
+  }
+}

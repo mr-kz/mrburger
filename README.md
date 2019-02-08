@@ -1,1 +1,1 @@
-# mrburger
+https://mr-kz.github.io/mrburger/
