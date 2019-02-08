@@ -1,0 +1,17 @@
+$orange: #e45028;
+$yellow: #f9b43b;
+$black: #2f3234;
+$red: #e35028;
+
+@import "layout/normalize.scss",
+        "layout/fonts.scss",
+        "layout/base.scss";
+
+@import "blocks/btn.scss",
+        "blocks/fixed-menu.scss",
+        "blocks/section-title.scss";
+
+@import "blocks/hero.scss",
+        "blocks/best.scss",
+        "blocks/header.scss",
+        "blocks/reviews.scss";
